@@ -1,0 +1,3 @@
+
+In This E-Learning system there are three actors teacher, student & admin.Teachers and students both need logging in to website.Registered teachers login to system and can fill details about his class with the class link.Registered student can choose class by clicking on the link which he wish to join.Admin can manage the data ,He will have access to all the details. Email Api is also used for better interaction with the user.
+
